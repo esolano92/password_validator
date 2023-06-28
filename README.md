@@ -29,8 +29,6 @@ Installation:
 2. Navigate to the project directory:
    cd password-validator
 
-3. Install the required dependencies:
-   pip install -r requirements.txt
 
 Usage:
 1. Run the application:
@@ -42,11 +40,6 @@ Usage:
 
 4. The application will display a success message if the password meets the requirements, or a warning message if it fails.
 
-License:
-This project is licensed under the MIT License.
 
-Acknowledgements:
-- OpenAI for providing the ChatGPT model used to generate this response.
 
-Contributing:
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
