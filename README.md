@@ -1,11 +1,21 @@
-Password Validator
+# Password Validator
 
 A simple password validation application built with Tkinter.
 
-Description:
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Demo](#demo)
+- [How-to-use](#how-to-use)
+- [Contributing](#contributing)
+
+## Introduction
+
 This application allows users to enter a password and validate it against certain criteria, such as length, uppercase letters, lowercase letters, digits, and repetitions. The application provides feedback on whether the password meets the requirements or not.
 
-Features:
+## Features
 - Password length validation
 - Uppercase letter validation
 - Lowercase letter validation
@@ -13,24 +23,25 @@ Features:
 - Repetition validation
 - Display of success or warning message
 
-Technologies Used:
+## Technologies Used
+
 - Python
 - Tkinter
 
-Getting Started:
+## Demo
 
-Prerequisites:
-- Python 3.x
 
-Installation:
+
+## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/password-validator.git
+   git clone https://github.com/your-username/password_validator.git
 
 2. Navigate to the project directory:
-   cd password-validator
+   cd password_validator
 
 
-Usage:
+## How to Use
+
 1. Run the application:
    python main.py
 
