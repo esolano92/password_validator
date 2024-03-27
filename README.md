@@ -30,7 +30,7 @@ This application allows users to enter a password and validate it against certai
 
 ## Demo
 
-
+![image](https://github.com/esolano92/password_validator/assets/78500300/d4d029d9-d797-43a2-aea7-a423f1679b86)
 
 ## Installation
 1. Clone the repository:
@@ -51,6 +51,6 @@ This application allows users to enter a password and validate it against certai
 
 4. The application will display a success message if the password meets the requirements, or a warning message if it fails.
 
+## Contributions
 
-
-
+Contributions are welcomed!
