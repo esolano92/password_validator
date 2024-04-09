@@ -34,7 +34,7 @@ This application allows users to enter a password and validate it against certai
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/password_validator.git
+   git clone https://github.com/esolano92/password_validator.git
 
 2. Navigate to the project directory:
    cd password_validator
